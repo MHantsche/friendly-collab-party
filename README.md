@@ -7,3 +7,8 @@ Hello everyone!  This is a new folder. This projectis used for the following por
 - Lean about versions
 - Learn about colaboration
 - Work with GitHub
+
+
+### My contribution to this project
+
+1. Entertain Merle
